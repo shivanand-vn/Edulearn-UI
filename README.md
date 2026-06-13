@@ -8,3 +8,5 @@ A modern and intuitive Learning Management System (LMS) interface built using **
 ![Screenshot 2](screenshots/Screenshot-0.png)  
 ![Screenshot 3](screenshots/Screenshot-2.png)
 ![Screenshot 3](screenshots/Screenshot-5.png)
+
+🏆 Recognized as the Best Performer in UI/UX Master Line 2025 at CBS (Chetan Business School) for excellence in UI/UX design and frontend development.
